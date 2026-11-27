@@ -24,5 +24,6 @@ Meta merges a browser event (Pixel) with its server copy (Conversions API) only 
 - Guide: [Meta Conversions API deduplication: why your cost per conversion just halved](https://lp.bitencourtco.com/kit-tracking/en/guides/meta-capi-deduplication-event-id/?utm_source=github&utm_medium=referral&utm_campaign=gtm-event-id)
 - Free field guide: [13 Silent Tracking Failures](https://tonibitencourt.gumroad.com/l/13-silent-tracking-failures?utm_source=github&utm_medium=referral&utm_campaign=gtm-event-id)
 - Full setup, from the ad click to HubSpot deal stages back to Meta: [4-Layer Tracking Kit](https://tonibitencourt.gumroad.com/l/4-layer-tracking?utm_source=github&utm_medium=referral&utm_campaign=gtm-event-id)
+- Agencies and freelancers: recommend the kit to clients and earn 50% per sale, [affiliate program](https://lp.bitencourtco.com/kit-tracking/en/affiliates/?utm_source=github&utm_medium=referral&utm_campaign=gtm-event-id)
 
-Apache License 2.0 · Bitencourt & Co.
+Apache-2.0 License · Bitencourt & Co.
