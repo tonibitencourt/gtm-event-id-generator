@@ -1,0 +1,5 @@
+homepage: "https://lp.bitencourtco.com/kit-tracking/en/guides/meta-capi-deduplication-event-id/"
+documentation: "https://github.com/tonibitencourt/gtm-event-id-generator#readme"
+versions:
+  - sha: 7958a444878090e8c22289966abae7a62b4596c7
+    changeNotes: Initial release.
