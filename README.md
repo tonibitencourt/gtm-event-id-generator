@@ -25,4 +25,4 @@ Meta merges a browser event (Pixel) with its server copy (Conversions API) only 
 - Free field guide: [13 Silent Tracking Failures](https://tonibitencourt.gumroad.com/l/13-silent-tracking-failures?utm_source=github&utm_medium=referral&utm_campaign=gtm-event-id)
 - Full setup, from the ad click to HubSpot deal stages back to Meta: [4-Layer Tracking Kit](https://tonibitencourt.gumroad.com/l/4-layer-tracking?utm_source=github&utm_medium=referral&utm_campaign=gtm-event-id)
 
-MIT License · Bitencourt & Co.
+Apache License 2.0 · Bitencourt & Co.
